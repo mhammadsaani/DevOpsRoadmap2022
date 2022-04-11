@@ -562,4 +562,101 @@
 ## 01-03-2022 (day 42)
 
 - [Introduction to Kubernetes (edx)](https://www.edx.org/course/introduction-to-kubernetes)
-  -chapter 8. kubernetes building blocks
+  - chapter 8. kubernetes building blocks
+
+## 02-03-2022 (day 43)
+
+- [Introduction to Kubernetes (edx)](https://www.edx.org/course/introduction-to-kubernetes)
+  - chapter 9. Authentication, Authorization, Admission Control
+  - chapter 10 - services
+
+## 03-03-2022 (day 44)
+
+- [Introduction to Kubernetes (edx)](https://www.edx.org/course/introduction-to-kubernetes)
+  - chapter 11. deploying standalone applicaiton
+  - chapter 12 - kubernetes volumes management
+
+## 05-03-2022 (day 45)
+
+- [Kube academy](https://kube.academy/)
+  - Getting Started with Kubernetes
+  - Containers 101
+  - Kubernetes 101
+  - Virtual Machines vs Containers
+
+## 06-03-2022 (day 46)
+
+- [Kube academy](https://kube.academy/)
+  - Frequently Asked Questions
+  - Building Applications for Kubernetes
+  - Hands-On with Kubernetes and Containers
+
+## 07-03-2022 (day 47)
+
+- [Kube academy](https://kube.academy/)
+  - Cloud Native Principles
+
+## 08-03-2022 (day 48)
+
+- [Kube academy](https://kube.academy/)
+  - Introduction to the business case for kubernetes
+  - Kubernetes In Depth
+
+## 13-03-2022 (day 49)
+
+- [Kube academy](https://kube.academy/)
+  - CKAD Practice
+  - revision
+
+## 14-03-2022 (day 50)
+
+- [Kube academy](https://kube.academy/)
+  - revision
+
+## 15-03-2022 (day 51)
+
+- [Kube academy](https://kube.academy/)
+  - revision
+
+## 16-03-2022 (day 52)
+
+- [Introductory slides](https://collabnix.github.io/kubelabs/Kubernetes_Intro_slides-1/Kubernetes_Intro_slides-1.html)
+- [Deep Dive into Kubernetes Architecture](https://collabnix.github.io/kubelabs/Kubernetes_Architecture.html)
+
+## 17-03-2022 (day 53)
+
+- [pods 101](https://collabnix.github.io/kubelabs/Pods101_slides/Pods101.html)
+
+## 28-03-2022 (day 54)
+
+- [Deploying Your First Nginx Pod](https://collabnix.github.io/kubelabs/pods101/deploy-your-first-nginx-pod.html)
+
+## 31-03-2022 (day 55)
+
+- [Deploying Your First Nginx Pod](https://collabnix.github.io/kubelabs/pods101/deploy-your-first-nginx-pod.html)
+  - shared volume container
+
+## 03-04-2022 (day 56)
+
+- [ReplicaSet101](https://collabnix.github.io/kubelabs/SlidesReplicaSet101/ReplicaSet101.html)
+
+## 05-04-2022 (day 57)
+
+- [Kubernetes ReplicaSet](https://collabnix.github.io/kubelabs/replicaset101/#how-does-replicaset-manage-pods)
+
+# 06-04-2022 (day 58)
+
+- [deployment101](https://collabnix.github.io/kubelabs/Deployment101_slides/Deployment101.html)
+
+# 08-04-2022 (day 59)
+
+- [deployment101](https://collabnix.github.io/kubelabs/Deployment101_slides/Deployment101.html)
+- [schdeduler101](https://collabnix.github.io/kubelabs/Scheduler101/)
+  - node affinity
+  - anti node affinity
+  - nodes taints and tolerations
+- [services101](https://collabnix.github.io/kubelabs/Slides_Services101/Services101.html)
+
+# 08-04-2022 (day 60)
+
+-[deploy a kubernetes service](https://collabnix.github.io/kubelabs/Services101/#deploying--a-kubernetes-service)
